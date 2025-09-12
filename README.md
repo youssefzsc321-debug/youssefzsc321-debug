@@ -11,7 +11,8 @@
 - My name is **Youssef AboZaid**
 - Learning **ASP.NET** and web development
 - Problem solver on [Codeforces](https://codeforces.com/profile/goyzsc)
-- Interested in **OOP** with both **C++** and **C#**
+- Skilled in **OOP** with both **C++** and **C#**
+- Proficient in **Java** and **Python**
 - Improving skills in **algorithms** and **data structures**
 - Participated in **ECPC 2024 & 2025**
 - Community **ICPC Monitor** at Faculty of Computers and Artificial Intelligence, Benha University
@@ -21,7 +22,7 @@
 
 ### 🧑‍💻 Tech & Skills
 - **Web**: HTML, CSS, ASP.NET  
-- **Programming**: C++, C#, Java  
+- **Programming**: C++, C#, Java, Python  
 - **Concepts**: OOP with C++ and C#, problem solving, algorithms  
 - **Databases**: SQL Server  
 - **Tools**: Git, GitHub  
@@ -32,6 +33,7 @@
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-official.svg" alt="cplusplus" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="sqlserver" width="55" height="55"/>
