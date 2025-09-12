@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Youssef AboZaid, Developer and Problem Solver from <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>Egypt</b>. </p>
+<p>Welcome to my page! </br> I'm <b>Youssef AboZaid</b>, developer and problem solver from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Egypt</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -16,23 +16,35 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+<h3>About</h3>
+<ul>
+  <li>Developer focused on ASP.NET and web development</li>
+  <li>Experienced with C++, C#, Python, and Java</li>
+  <li>Solid OOP knowledge using C++ and C#</li>
+  <li>Competitive programmer on <a href="https://codeforces.com/profile/goyzsc">Codeforces</a></li>
+</ul>
+
 <h3>Achievements & Activities</h3>
 <ul>
-  <li>Participant in <b>ECPC 2024 & 2025</b></li>
-  <li><b>ICPC Community Monitor</b> at Faculty of Computers and Artificial Intelligence, Benha University</li>
-  <li>Trained more than <b>70 students</b> in programming and problem solving</li>
+  <li>Participant in <b>ECPC 2024</b> and <b>ECPC 2025</b></li>
+  <li>ICPC community monitor, Faculty of Computers and Artificial Intelligence, Benha University</li>
+  <li>Trained 70+ students in programming and problem solving</li>
 </ul>
 
 <h3>My Github Stats</h3>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=youssefzsc321-debug&show_icons=true&theme=dark&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&theme=dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefzsc321-debug&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefzsc321-debug&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefzsc321-debug&theme=dark" />
 </p>
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/youssefzsc321-debug" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/youssefzsc321-debug" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/goyzsc" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
 </p>
+
+<hr />
+
+<p align="center">Bio: Web developer in progress | Experienced with C++, C#, Python, and Java | Solid OOP skills | Competitive programmer on Codeforces | ECPC 2024 & 2025 participant | ICPC monitor at Benha University | Trained 70+ students</p>
