@@ -6,8 +6,6 @@
 <a href="https://github.com/youssefzsc321-debug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="youssefzsc321-debug" height="30" width="30" /></a>
 </p>
 
-![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 Student at Faculty of Computers and Artificial Intelligence, Benha University  
 - 💻 Interested in **ASP.NET** and web development  
