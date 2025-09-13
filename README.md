@@ -21,7 +21,9 @@
 
 ### Github Stats:
 ![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=youssefzsc321-debug&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&langs_count=3&include_lang=C++,C#,Python&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&langs_count=3&theme=radical&custom_title=Most%20Used%20Languages&hide=html,css,java,sql)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssefzsc321-debug&theme=dark)](https://git.io/streak-stats)  
 
 ---
@@ -30,14 +32,6 @@
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="55"/>
 <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" width="55"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="65"/>
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="55"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="55"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="55"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55"/>
 </p>
 
 ---
