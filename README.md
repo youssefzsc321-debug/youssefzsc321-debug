@@ -3,13 +3,14 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="youssef-abuzaid" height="30" width="30" /></a>&nbsp;
 <a href="https://codeforces.com/profile/goyzsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="goyzsc" height="30" width="30" /></a>&nbsp;
-<a href="https://github.com/youssefzsc321-debug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="youssefzsc321-debug" height="30" width="30" /></a>
+<a href="https://github.com/youssefzsc321-debug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="youssefzsc321-debug" height="30" width="30" /></a>&nbsp;
+<a href="https://www.youtube.com/@youssefabuzaid5542" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youssef-abuzaid-youtube" height="30" width="30" /></a>
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 Student at Faculty of Computers and Artificial Intelligence, Benha University  
 - 💻 Interested in **ASP.NET** and web development  
-- 🧑‍💻 Learned and practiced **C++**, **C#**, **Python**, and **Java**  
+- 🧑‍💻 Learned and practiced **C++**, **C#**, **Python**, **Java**, **HTML**, and **CSS**  
 - 📌 Solid experience with **OOP** in C++ and C#  
 - 🏆 Competitive programmer on [Codeforces](https://codeforces.com/profile/goyzsc)  
 - 👨‍🏫 Trained more than 70 students in programming and problem solving  
