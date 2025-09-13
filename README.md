@@ -24,6 +24,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&langs_count=3&theme=radical&custom_title=Most%20Used%20Languages&hide=html,css,java,sql)](https://github.com/anuraghazra/github-readme-stats)  
 
+**Most Used Languages:** C++ C# Python  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssefzsc321-debug&theme=dark)](https://git.io/streak-stats)  
 
 ---
@@ -32,6 +34,11 @@
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="55"/>
 <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" width="55"/>
 </p>
 
 ---
