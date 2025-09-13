@@ -1,38 +1,49 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<p>Welcome to my page! </br> I'm <b>Youssef AboZaid</b>, Developer and Problem Solver from <b>Egypt</b>. </p>
-
-<h3>Things I code with</h3>
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+<a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="youssef-abuzaid" height="30" width="30" /></a>&nbsp;
+<a href="https://codeforces.com/profile/goyzsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="goyzsc" height="30" width="30" /></a>&nbsp;
+<a href="https://github.com/youssefzsc321-debug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="youssefzsc321-debug" height="30" width="30" /></a>
 </p>
 
-<h3>Achievements & Activities</h3>
-<ul>
-  <li>Participant in <b>ECPC 2024 & 2025</b></li>
-  <li><b>ICPC Community Monitor</b> at Faculty of Computers and Artificial Intelligence, Benha University</li>
-  <li>Trained more than <b>70 students</b> in programming and problem solving</li>
-</ul>
+![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-<h3>My Github Stats</h3>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=youssefzsc321-debug&show_icons=true&theme=dark&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&theme=dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefzsc321-debug&theme=dark" />
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🎓 Student at Faculty of Computers and Artificial Intelligence, Benha University  
+- 💻 Interested in **ASP.NET** and web development  
+- 🧑‍💻 Learned and practiced **C++**, **C#**, **Python**, and **Java**  
+- 📌 Solid experience with **OOP** in C++ and C#  
+- 🏆 Competitive programmer on [Codeforces](https://codeforces.com/profile/goyzsc)  
+- 👨‍🏫 Trained more than 70 students in programming and problem solving  
+- ⚡ ECPC 2024 & 2025 participant, ICPC community monitor at Benha University  
+
+---
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=youssefzsc321-debug&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssefzsc321-debug&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### 🧑‍💻 Tech I work with:
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="c++" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" alt="c#" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="asp.net" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
 </p>
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/youssefzsc321-debug" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/goyzsc" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-</p>
+---
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
