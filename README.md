@@ -1,38 +1,79 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<h1 align="center">Hi there 👋, I'm Youssef Abuzaid</h1>
+<h3 align="center">💻 Competitive Programmer | ASP.NET Enthusiast | Problem Solver</h3>
 
+---
+
+### 🌐 Connect with me:
 <p align="center">
-<a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="youssef-abuzaid" height="30" width="30" /></a>&nbsp;
-<a href="https://codeforces.com/profile/goyzsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="goyzsc" height="30" width="30" /></a>&nbsp;
-<a href="https://github.com/youssefzsc321-debug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="youssefzsc321-debug" height="30" width="30" /></a>&nbsp;
-<a href="https://www.youtube.com/@youssefabuzaid5542" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youssef-abuzaid-youtube" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
+   <sub>LinkedIn</sub>
+</a>&nbsp;
+
+<a href="https://codeforces.com/profile/goyzsc" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="30" />
+   <sub>Codeforces</sub>
+</a>&nbsp;
+
+<a href="https://github.com/youssefzsc321-debug" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
+   <sub>GitHub</sub>
+</a>&nbsp;
+
+<a href="https://www.youtube.com/@youssefabuzaid5542" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="30" />
+   <sub>YouTube</sub>
+</a>
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🎓 Student at Faculty of Computers and Artificial Intelligence, Benha University  
+---
+
+### 👨‍💻 About Me
+- 🎓 Student at Faculty of Computers and AI, Benha University  
 - 💻 Interested in **ASP.NET** and web development  
-- 🧑‍💻 Learned and practiced **C++**, **C#**, **Python**, **Java**, **HTML**, and **CSS**  
-- 📌 Solid experience with **OOP** in C++ and C#  
 - 🏆 Competitive programmer on [Codeforces](https://codeforces.com/profile/goyzsc)  
-- 👨‍🏫 Trained more than 70 students in programming and problem solving  
+- 👨‍🏫 Trained +70 students in problem solving  
 - ⚡ ECPC 2024 & 2025 participant, ICPC community monitor at Benha University  
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=youssefzsc321-debug&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user/youssefzsc321-debug?theme=dark)](https://git.io/streak-stats)
+### 🚀 Goals
+- Master advanced problem-solving and algorithms  
+- Contribute to open-source projects on GitHub  
+- Build impactful ASP.NET applications  
+- Share knowledge through tutorials and YouTube content  
 
 ---
 
-### 🧑‍💻 Tech I work with:
+### 📊 Github Stats
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="c++" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" alt="c#" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="asp.net" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
+<img src="https://github-readme-stats.vercel.app/api?username=youssefzsc321-debug&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefzsc321-debug&theme=dark" />
 </p>
+
+---
+
+### 🔝 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+   <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="55" height="55"/>
+   <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" width="55" height="55"/>
+   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
+   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="65" height="65"/> 
+   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="55" height="55"/>
+   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="55" height="55"/>
+   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="55" height="55"/>
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/> 
+   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55"/>
+</p>
+
+---
+
+### ✨ Fun fact
+> "The best way to learn coding is by solving real problems."
