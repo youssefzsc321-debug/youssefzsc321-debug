@@ -3,26 +3,22 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 <p align="center">
 <a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
-   <sub>LinkedIn</sub>
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35" width="35" />
 </a>&nbsp;
 
 <a href="https://codeforces.com/profile/goyzsc" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="30" />
-   <sub>Codeforces</sub>
+   <img align="center" src="https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png" height="35" width="35" />
 </a>&nbsp;
 
 <a href="https://github.com/youssefzsc321-debug" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
-   <sub>GitHub</sub>
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35" width="35" />
 </a>&nbsp;
 
 <a href="https://www.youtube.com/@youssefabuzaid5542" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="30" />
-   <sub>YouTube</sub>
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="35" width="35" />
 </a>
 </p>
 
