@@ -24,15 +24,15 @@ My main goal is to master algorithms, contribute to open source, and advance as 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
-<a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" height ="42px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42"/>
 
 <br>
 
