@@ -4,7 +4,7 @@
 ---
 
 ### 🔨 Languages and Tools:
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
@@ -18,8 +18,8 @@
 
 ---
 
-### 🌐 Connect with me
-<p align="center">
+### 🤝 Connect with me
+<p align="left">
   <a href="https://www.linkedin.com/in/YourUserName/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -36,11 +36,13 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
+### 📊 GitHub Stats:
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br/>
+</p>
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="streak"/>
-  <br/>
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
