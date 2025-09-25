@@ -1,10 +1,45 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">A passionate programmer</h3>
+## Hey 👋, I'm Youssef Abuzaid!
+
+I am a **Competitive Programmer** and **ASP.NET Enthusiast** passionate about solving problems and building applications.  
+I enjoy learning new tools and technologies to sharpen my coding skills and create impactful projects.  
+My main goal is to master algorithms, contribute to open source, and advance as a **Problem Solver and Web Developer**.  
+
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/goyzsc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/youssefzsc321-debug" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@youssefabuzaid5542" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🧐 More About Me:
+- 🎓 &nbsp; Student at Faculty of Computers and AI, Benha University  
+- 💻 &nbsp; Interested in **ASP.NET** and **Web Development**  
+- 🏆 &nbsp; Competitive programmer on [Codeforces](https://codeforces.com/profile/goyzsc)  
+- 👨‍🏫 &nbsp; Trained +70 students in problem solving  
+- ⚡ &nbsp; ECPC 2024 & 2025 participant, ICPC community monitor at Benha University  
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/)  
 
 ---
 
 ### 🔨 Languages and Tools:
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
@@ -18,31 +53,15 @@
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/YourUserName/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YourUserName" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@YourUserName" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/YourUserName" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
+### 📊 Github Stats
+<a href='https://github.com/youssefzsc321-debug'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="streak"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
+### ✨ Fun fact
+> "The best way to learn coding is by solving real problems."
