@@ -1,73 +1,48 @@
-<h1 align="center">Hi there 👋, I'm Youssef Abuzaid</h1>
-<h3 align="center">💻 Competitive Programmer | ASP.NET Enthusiast | Problem Solver</h3>
+## Hey 👋, I'm Youssef Abuzaid!
+<a href='https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://codeforces.com/profile/goyzsc'><img alt="codeforces" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height='18px'/></a>
+<a href='https://github.com/youssefzsc321-debug'><img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='18px'/></a>
+<a href='https://www.youtube.com/@youssefabuzaid5542'><img alt="youtube" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height='18px'/></a>
 
----
+I am a **Competitive Programmer** and **ASP.NET Enthusiast** passionate about solving problems and building applications.  
+I enjoy learning new tools and technologies to sharpen my coding skills and create impactful projects.  
+My main goal is to master algorithms, contribute to open source, and advance as a **Problem Solver and Web Developer**.  
 
-### 🌐 Connect with me:
-<p align="center">
-<a href="https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
-</a>&nbsp;
+<br/>
 
-<a href="https://codeforces.com/profile/goyzsc" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="30" />
-</a>&nbsp;
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-<a href="https://github.com/youssefzsc321-debug" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
-</a>&nbsp;
+- 🎓 &nbsp; Student at Faculty of Computers and AI, Benha University  
+- 💻 &nbsp; Interested in **ASP.NET** and **Web Development**  
+- 🏆 &nbsp; Competitive programmer on [Codeforces](https://codeforces.com/profile/goyzsc)  
+- 👨‍🏫 &nbsp; Trained +70 students in problem solving  
+- ⚡ &nbsp; ECPC 2024 & 2025 participant, ICPC community monitor at Benha University  
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/youssef-abuzaid-58b8a2379/)  
 
-<a href="https://www.youtube.com/@youssefabuzaid5542" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="30" />
-</a>
-</p>
+<br>
 
----
+### 🔨 Languages and Tools:
+<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
+<a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" height ="42px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
 
-### 👨‍💻 About Me
-- 🎓 Student at Faculty of Computers and AI, Benha University  
-- 💻 Interested in **ASP.NET** and web development  
-- 🏆 Competitive programmer on [Codeforces](https://codeforces.com/profile/goyzsc)  
-- 👨‍🏫 Trained +70 students in problem solving  
-- ⚡ ECPC 2024 & 2025 participant, ICPC community monitor at Benha University  
-
----
-
-### 🚀 Goals
-- Master advanced problem-solving and algorithms  
-- Contribute to open-source projects on GitHub  
-- Build impactful ASP.NET applications  
-- Share knowledge through tutorials and YouTube content  
-
----
+<br>
 
 ### 📊 Github Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youssefzsc321-debug&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefzsc321-debug&theme=dark" />
-</p>
+<a href='https://github.com/youssefzsc321-debug'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
----
-
-### 🔝 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzsc321-debug&layout=compact&theme=dark" />
-</p>
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-   <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="55" height="55"/>
-   <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" width="55" height="55"/>
-   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
-   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="65" height="65"/> 
-   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="55" height="55"/>
-   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="55" height="55"/>
-   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="55" height="55"/>
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/> 
-   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55"/>
-</p>
+</a>
 
 ---
 
